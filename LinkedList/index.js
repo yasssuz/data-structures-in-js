@@ -150,7 +150,3 @@ class LinkedList {
 }
 
 const linkedList = new LinkedList(1);
-linkedList.push(5);
-linkedList.push(10);
-linkedList.reverse();
-console.log(linkedList);
